@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @UTKRISHT-ICS52
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning c language.
+- 👀 I’m interested in Web development,AI/ML
+- 🌱 I’m currently learning Frontend web.   development 
 - 💞️ I’m looking to collaborate on project
-- 📫 How to reach me at linkdln 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: code with utkrisht
+- 📫 you can contact me with linkdln 
+- ⚡ Fun fact: Trying to something else 
 
 <!---
 UTKRISHT-ICS52/UTKRISHT-ICS52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
