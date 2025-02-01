@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web development,AI/ML
 - 🌱 I’m currently learning Frontend web.   development 
 - 💞️ I’m looking to collaborate on Hackathon project
-- 📫 You can contact me with linkedln 
-- ⚡ Fun fact: Trying to something else 
+- 📫 You can contact with me on linkedln 
+- ⚡ Fun fact: "Trying to something else"
 
 <!--- 
 UTKRISHT-ICS52/UTKRISHT-ICS52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
