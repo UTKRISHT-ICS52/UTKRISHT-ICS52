@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UTKRISHT-ICS52
 - 👀 I’m interested in Web development,AI/ML
 - 🌱 I’m currently learning Frontend web.   development 
-- 💞️ I’m looking to collaborate on project
+- 💞️ I’m looking to collaborate on Hackathon project
 - 📫 You can contact me with linkdln 
 - ⚡ Fun fact: Trying to something else 
 
