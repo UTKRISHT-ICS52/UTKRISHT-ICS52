@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development,AI/ML
 - 🌱 I’m currently learning Frontend web.   development 
 - 💞️ I’m looking to collaborate on Hackathon project
-- 📫 You can contact me with linkdln 
+- 📫 You can contact me with linkedln 
 - ⚡ Fun fact: Trying to something else 
 
 <!--- 
