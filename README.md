@@ -1,3 +1,4 @@
+![logo](https://github.com/UTKRISHT-ICS52/UTKRISHT-ICS52/blob/main/banner.github.jpg)
 <h1 align="center">Hi 👋, I'm UTKRISHT PATEL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
