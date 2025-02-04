@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm UTKRISHT PATEL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.ytk_FI-XypVcV4Z3NrxHFQHaE7?w=259&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkrisht-ics52&label=Profile%20views&color=0e75b6&style=flat" alt="utkrisht-ics52" /> </p>
 
