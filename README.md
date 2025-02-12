@@ -11,13 +11,15 @@
 
 - 👨‍💻 All of my projects are available at [codewithutkrisht.netlify.app](codewithutkrisht.netlify.app)
 
-- 💬 Ask me about **HTML,C Programming Language**
+- 💬 Ask me about **C Programming Language**
 
 - 📫 How to reach me **utkrisht207patel@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/UTKRISHT-ICS52/UTKRISHT-ICS52.github.io](https://github.com/UTKRISHT-ICS52/UTKRISHT-ICS52.github.io)
+  
 
 - ⚡ Fun fact **Trying to make "something else"**
+-   🏆HACKATHON WINNER - 🥇PACS HACKATHON  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkrisht-ics52&show_icons=true&locale=en" alt="utkrisht-ics52" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkrisht-ics52&" alt="utkrisht-ics52" /></p>
+<h2> Thank You! for visiting my Profile </h2>
+<h2> Let's connect and explore opportunities to innovate and make a difference in the tech world together!</h2>
