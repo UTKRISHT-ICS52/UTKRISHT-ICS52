@@ -1,17 +1,18 @@
-![logo](https://github.com/UTKRISHT-ICS52/UTKRISHT-ICS52/blob/main/Web-Development-Basics-Beginner-level.jpg)
+![Screenshot 2025-05-26 132859](https://github.com/user-attachments/assets/966a5734-c19c-4aa9-a168-edfb2e69203f)
+
 <h1 align="center">Hi 👋, I'm UTKRISHT PATEL</h1>
-<h3 align="center">A passionate frontend developer and AI/ML  Enthusiast from India</h3>
+<h3 align="center">A passionate Frontend developer and AI/ML  Enthusiast from India </h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkrisht-ics52&label=Profile%20views&color=0e75b6&style=flat" alt="utkrisht-ics52" /> </p>
 
 - 🔭 I’m currently working on **Secret Mission**
 
-- 🌱 I’m currently learning **Advanced Javascript logics**
+- 🌱 I’m currently learning **React.js, Node.js**
 
 - 👨‍💻 All of my projects are available at [codewithutkrisht.netlify.app](codewithutkrisht.netlify.app)
 
-- 💬 Ask me about **C Programming Language**
+- 💬 Ask me about **C Programming Language,Frontend-web development**
 
 - 📫 How to reach me **utkrisht207patel@gmail.com**
 
