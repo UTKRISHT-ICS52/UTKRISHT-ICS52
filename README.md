@@ -1,4 +1,7 @@
-![Screenshot 2025-05-26 132859](https://github.com/user-attachments/assets/966a5734-c19c-4aa9-a168-edfb2e69203f)
+![coding](https://github.com/user-attachments/assets/d11d4282-9043-46ff-ba35-fcc773c1f920)
+
+
+
 
 <h1 align="center">Hi 👋, I'm UTKRISHT PATEL</h1>
 <h3 align="center">A passionate Frontend developer and AI/ML  Enthusiast from India </h3>
@@ -8,11 +11,11 @@
 
 - 🔭 I’m currently working on **Secret Mission**
 
-- 🌱 I’m currently learning **React.js, Node.js**
+- 🌱 I’m currently learning **DevOps Engineering**
 
 - 👨‍💻 All of my projects are available at [codewithutkrisht.netlify.app](codewithutkrisht.netlify.app)
 
-- 💬 Ask me about **C Programming Language,Frontend-web development**
+- 💬 Ask me about **C Programming Language, Cpp,Frontend-web development**
 
 - 📫 How to reach me **utkrisht207patel@gmail.com**
 
@@ -20,7 +23,8 @@
   
 
 - ⚡ Fun fact **Trying to make "something else"**
--   🏆HACKATHON WINNER - 🥇PACS HACKATHON  
+-   🏆HACKATHON WINNER - 🥇PACS HACKATHON
+-   SmartEarth'25 Hackathon @Nazarbayev University (Kazakhstan) Finalist
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
