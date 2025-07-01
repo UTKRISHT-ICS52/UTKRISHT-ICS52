@@ -1,10 +1,11 @@
-![coding](https://github.com/user-attachments/assets/d11d4282-9043-46ff-ba35-fcc773c1f920)
+![Screenshot 2025-05-26 132923](https://github.com/user-attachments/assets/7b75e2a6-999d-4de3-95c1-a177db1b05b8)
 
 
 
 
-<h1 align="center">Hi 👋, I'm UTKRISHT PATEL</h1>
-<h3 align="center">A passionate Frontend developer and AI/ML  Enthusiast from India </h3>
+
+<h1 align="center">Hi 👋, I'm UTKRISHT PATEL from Gautam Budhha Univ.</h1>
+<h3 align="center">A passionate Frontend Web developer and DevOps Engineer from India </h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkrisht-ics52&label=Profile%20views&color=0e75b6&style=flat" alt="utkrisht-ics52" /> </p>
