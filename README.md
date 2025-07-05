@@ -1,9 +1,8 @@
 
 ![WhatsApp Image 2025-07-04 at 06 48 09_61b5ac2d](https://github.com/user-attachments/assets/8bedddd9-8e38-4c91-b69c-092fa0c2ab6c)
-
-![Screenshot 2025-05-26 132923](https://github.com/user-attachments/assets/4d4a3708-ebd7-444d-b6ae-eb203bfe93d5)
-
-<h1 align="center">Hi 👋, I'm UTKRISHT PATEL🧿</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+UTKRISHT+PATEL+👨🏻‍💻;" />
+</h1>
 <h3 align="center">A passionate Frontend Web developer🖥️and DevOps Engineer ♾️ from India 👨‍💻 </h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
@@ -26,7 +25,19 @@
 - ⚡ Fun fact **Trying to make "something else"**
 - 🏆HACKATHON WINNER - 🥇PACS HACKATHON
 -   SmartEarth'25 Hackathon @Nazarbayev University (Kazakhstan) Finalist
-
+  <div align="center"> 
+  <a href="mailto:utkrisht207@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+   <a href="https://www.youtube.com/@utkrishtpatel8975" target="_blank">
+     <img src="https://img.shields.io/badge/YouTube-D71313?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+   <a href="https://www.linkedin.com/in/utkrisht-patel2007">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+  
+ 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
