@@ -36,6 +36,8 @@
 
 <a href="https://x.com/patel_utkr11561?t=5w0k8ve4rTwqLc35xk-YtA&s=09" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="https://x.com/patel_utkr11561?t=5w0k8ve4rTwqLc35xk-YtA&s=09" height="30" width="40" /></a>
   <a href="https://www.facebook.com/share/1Avw511nnG/?mibextid=qi2Omg" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/share/1Avw511nnG/?mibextid=qi2Omg" height="30" width="40" /></a>
+
+   <a href="https://youtube.com/@utkrishtpatel8975?si=oLQyURp0fUqpUmNo" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" alt="https://youtube.com/@utkrishtpatel8975?si=oLQyURp0fUqpUmNo" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
