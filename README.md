@@ -3,8 +3,8 @@
 
 ![Screenshot 2025-05-26 132923](https://github.com/user-attachments/assets/4d4a3708-ebd7-444d-b6ae-eb203bfe93d5)
 
-<h1 align="center">Hi 👋, I'm UTKRISHT PATEL</h1>
-<h3 align="center">A passionate Frontend Web developer and DevOps Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm UTKRISHT PATEL🧿</h1>
+<h3 align="center">A passionate Frontend Web developer🖥️and DevOps Engineer ♾️ from India 👨‍💻 </h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkrisht-ics52&label=Profile%20views&color=0e75b6&style=flat" alt="utkrisht-ics52" /> </p>
