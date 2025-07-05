@@ -15,14 +15,11 @@
 - 🔭 I’m currently working on **Secret Mission**
 
 - 🌱 I’m currently learning **DevOps Engineering**
-
-- 👨‍💻 All of my projects are available at [codewithutkrisht.netlify.app](codewithutkrisht.netlify.app)
-
 - 💬 Ask me about **C Programming Language, Cpp,Frontend-web development**
 
 - 📫 How to reach me **utkrisht207patel@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/UTKRISHT-ICS52/UTKRISHT-ICS52.github.io](https://github.com/UTKRISHT-ICS52/UTKRISHT-ICS52.github.io)
+- 📄 Know about my experiences on Linkedln ~ www.linkedin.com/in/utkrisht-patel2007 
   
 
 - ⚡ Fun fact **Trying to make "something else"**
