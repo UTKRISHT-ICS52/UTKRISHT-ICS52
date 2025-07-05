@@ -35,7 +35,7 @@
 <a href="https://instagram.com/https://www.instagram.com/codewithutkrisht?igsh=z2zsywf4ogy1ejgx" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/codewithutkrisht?igsh=z2zsywf4ogy1ejgx" height="30" width="40" /></a> 
 
 <a href="https://x.com/patel_utkr11561?t=5w0k8ve4rTwqLc35xk-YtA&s=09" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="https://x.com/patel_utkr11561?t=5w0k8ve4rTwqLc35xk-YtA&s=09" height="30" width="40" /></a>
-  
+  <a href="https://www.facebook.com/share/1Avw511nnG/?mibextid=qi2Omg" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/share/1Avw511nnG/?mibextid=qi2Omg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
