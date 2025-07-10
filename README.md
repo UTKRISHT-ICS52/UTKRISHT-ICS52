@@ -57,7 +57,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkrisht-ics52&show_icons=true&locale=en" alt="utkrisht-ics52" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkrisht-ics52&" alt="utkrisht-ics52" /></p>
+
 <h2> Let's connect and explore opportunities to innovate and make a difference in the tech world together!</h2>
 <h3> @2025 Gautam Buddha University  Maintained by CODEWITHUTKRISHT❤️</h3>
 
