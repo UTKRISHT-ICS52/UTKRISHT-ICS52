@@ -18,9 +18,7 @@
 - 💬 Ask me about **C Programming Language, Cpp,Frontend-web development**
 
 - 📫 How to reach me **utkrisht207patel@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/utkrisht-patel2007](www.linkedin.com/in/utkrisht-patel2007)
-
+- 
 - ⚡ Fun fact **Trying to make "something else"**
 - 🏆HACKATHON WINNER - 🥇PACS HACKATHON
 -   SmartEarth'25 Hackathon @Nazarbayev University (Kazakhstan) Finalist
@@ -57,8 +55,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkrisht-ics52&show_icons=true&locale=en" alt="utkrisht-ics52" /></p>
 
-
-<h2> Let's connect and explore opportunities to innovate and make a difference in the tech world together!</h2>
 <h3> @2025 Gautam Buddha University  Maintained by CODEWITHUTKRISHT❤️</h3>
 
 
