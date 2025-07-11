@@ -10,6 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkrisht-ics52" alt="utkrisht-ics52" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@patel_utkr11561" target="blank"><img src="https://img.shields.io/twitter/follow/@patel_utkr11561?logo=twitter&style=for-the-badge" alt="@patel_utkr11561" /></a> </p>
+
 - 🔭 I’m currently working on **Secret Mission**
 - 🌱 I’m currently learning **DevOps Engineering**
 - 💬 Ask me about **C Programming Language, Cpp,Frontend-web development**
