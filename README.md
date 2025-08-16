@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+UTKRISHT+PATEL+👨🏻‍💻;" />
 </h1>
-<h3 align="center">A passionate Frontend Web developer🖥️and DevOps Engineer ♾️ from India 👨‍💻 </h3>
+<h3 align="center">A Full Stack Developer🖥️and Software Engineer ♾️ from India 👨‍💻 </h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <p align="left"> <a href="https://twitter.com/@patel_utkr11561" target="blank"><img src="https://img.shields.io/twitter/follow/@patel_utkr11561?logo=twitter&style=for-the-badge" alt="@patel_utkr11561" /></a> </p>
 
