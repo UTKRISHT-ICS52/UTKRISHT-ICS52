@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+UTKRISHT+PATEL+👨🏻‍💻;" />
 </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=2FD0F7&width=435&lines=A+Full+Stack+Developer%F0%9F%96%A5%EF%B8%8F;+Software+Engineer+from+India+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZyZXQybHB2ZGR3ZjZzdGU3YW0xZGtoeTZwbWZsNjBxa2dpdjk2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 <p align="left"> <a href="https://twitter.com/@patel_utkr11561" target="blank"><img src="https://img.shields.io/twitter/follow/@patel_utkr11561?logo=twitter&style=for-the-badge" alt="@patel_utkr11561" /></a> </p>
 
 - 🔭 I’m currently working on **Secret Mission**
