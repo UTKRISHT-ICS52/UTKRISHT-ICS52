@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZyZXQybHB2ZGR3ZjZzdGU3YW0xZGtoeTZwbWZsNjBxa2dpdjk2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 
-- 🔭 I’m a  **Researcher -IOTSensors**
+- 🔭 I’m a  **Researcher -IOT(Sensors),Machine Learning**
 - 🌱 I’m currently learning **JAVA DSA**
 - 💬 Ask me about **C Programming Language, C++,Devops(Docker,AWS,Gitlab)**
 - 📫 How to reach me **utkrisht207patel@gmail.com**
