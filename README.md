@@ -17,8 +17,8 @@
   <a href="mailto:utkrisht207@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-   <a href="https://www.youtube.com/@utkrishtpatel8975" target="_blank">
-     <img src="https://img.shields.io/badge/YouTube-D71313?style=for-the-badge&logo=youtube&logoColor=white" />
+   <a href="https://leetcode.com/u/utkrisht-ics52" target="_blank">
+     <img src="https://img.shields.io/badge/LeetCode-D71316?style=for-the-badge&logo=LeetCode&logoColor=white" />
   </a>
    <a href="https://www.linkedin.com/in/utkrisht-patel2007">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -36,6 +36,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/utkrisht-patel2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/utkrisht-patel2007" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/codewithutkrisht?igsh=z2zsywf4ogy1ejgx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/codewithutkrisht?igsh=z2zsywf4ogy1ejgx" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/codewithutkrisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithutkrisht" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
