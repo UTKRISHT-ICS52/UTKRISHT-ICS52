@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning **JAVA DSA**
 - 💬 Ask me about **C Programming Language, C++,Devops(Docker,AWS,Gitlab)**
 - 📫 How to reach me **245ics052@gbu.ac.in**
-- ⚡ Fun fact **Trying to make "something else"**
 - 🏆HACKATHON WINNER - 🥇PACS HACKATHON
 -   SmartEarth'25 Hackathon @Nazarbayev University (Kazakhstan) Finalist
   <div align="center"> 
