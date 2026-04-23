@@ -65,7 +65,7 @@
 <a href="https://cloud.google.com"><img src="https://img.icons8.com/color/48/google-cloud.png" height="40"/></a>
 
 </p>
-<h3> @2024 Maintained by ~ </h3>
+<h3> copyright @2024 Maintained by ~ </h3>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F0F705&width=435&lines=%E2%9D%A4%EF%B8%8FCODEWITHUTKRISHT%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a> </h1>
 
 
